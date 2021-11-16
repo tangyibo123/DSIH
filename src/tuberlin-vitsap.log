@@ -1,0 +1,81 @@
+Checkpoint path: /home/tangyibo/data/sem_aux/CheckPoints/TU-Berlin/hieremb-path+word2vec-google-news/128
+Logger path: /home/tangyibo/data/sem_aux/LogFiles/TU-Berlin/hieremb-path+word2vec-google-news/128
+Result path: /home/tangyibo/data/sem_aux/Results/TU-Berlin/hieremb-path+word2vec-google-news/128
+Loading data...smoothdata_len:16704
+oridata_len:16704
+load_pretrained: grid-size from 7 to 8
+***Train***
+smoothdata_len:16704
+
+Epoch 0 训练中, Iteration: /1856, Total_Loss: 17.09217 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.41829  mAP@all_bin: 0.38773  ap@200: 0.51064  ap@200_bin: 0.47967
+最佳模型已保存
+smoothdata_len:16704
+
+Epoch 1 训练中, Iteration: /1856, Total_Loss: 2.04143 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.57818  mAP@all_bin: 0.54172  ap@200: 0.64676  ap@200_bin: 0.61143
+最佳模型已保存
+smoothdata_len:16704
+
+Epoch 2 训练中, Iteration: /1856, Total_Loss: 0.76515 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.69962  mAP@all_bin: 0.66541  ap@200: 0.76366  ap@200_bin: 0.73029
+最佳模型已保存
+smoothdata_len:16704
+
+Epoch 3 训练中, Iteration: /1856, Total_Loss: 0.58190 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.72702  mAP@all_bin: 0.69252  ap@200: 0.78449  ap@200_bin: 0.75204
+最佳模型已保存
+smoothdata_len:16704
+
+Epoch 4 训练中, Iteration: /1856, Total_Loss: 0.33395 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.74407  mAP@all_bin: 0.72857  ap@200: 0.76637  ap@200_bin: 0.73973
+最佳模型已保存
+smoothdata_len:16704
+
+Epoch 5 训练中, Iteration: /1856, Total_Loss: 0.23187 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.73649  mAP@all_bin: 0.71413  ap@200: 0.78717  ap@200_bin: 0.76278
+smoothdata_len:16704
+
+Epoch 6 训练中, Iteration: /1856, Total_Loss: 0.20837 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.75706  mAP@all_bin: 0.72475  ap@200: 0.77762  ap@200_bin: 0.76360
+最佳模型已保存
+smoothdata_len:16704
+
+Epoch 7 训练中, Iteration: /1856, Total_Loss: 0.18130 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.76197  mAP@all_bin: 0.74874  ap@200: 0.78723  ap@200_bin: 0.76564
+最佳模型已保存
+smoothdata_len:16704
+
+Epoch 8 训练中, Iteration: /1856, Total_Loss: 0.12922 ***Validation***
+mAP@all: 0.76851  mAP@all_bin: 0.73743  ap@200: 0.77287  ap@200_bin: 0.74412
+最佳模型已保存
+smoothdata_len:16704
+
+Epoch 9 训练中, Iteration: /1856, Total_Loss: 0.10990 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.77468  mAP@all_bin: 0.71614  ap@200: 0.78397  ap@200_bin: 0.76013
+最佳模型已保存
+smoothdata_len:16704
+
+Epoch 10 训练中, Iteration: /1856, Total_Loss: 0.08914 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.78203  mAP@all_bin: 0.74591  ap@200: 0.79802  ap@200_bin: 0.76102
+最佳模型已保存
+smoothdata_len:16704
+
+Epoch 11 训练中, Iteration: /1856, Total_Loss: 0.08062  ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.77651  mAP@all_bin: 0.73544  ap@200: 0.78937  ap@200_bin: 0.75472
+smoothdata_len:16704
+/home/tangyibo/anaconda3/envs/pytorch/lib/python3.6/site-packages/joblib/externals/loky/backend/resource_tracker.py:320: UserWarning: resource_tracker: There appear to be 6 leaked semlock objects to clean up at shutdown
+  (len(rtype_registry), rtype))
+/home/tangyibo/anaconda3/envs/pytorch/lib/python3.6/site-packages/joblib/externals/loky/backend/resource_tracker.py:320: UserWarning: resource_tracker: There appear to be 44 leaked folder objects to clean up at shutdown
+  (len(rtype_registry), rtype))

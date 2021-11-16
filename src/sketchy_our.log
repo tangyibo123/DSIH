@@ -1,0 +1,153 @@
+Checkpoint path: /home/tangyibo/data/sem_aux/CheckPoints/Sketchy/hieremb-path+word2vec-google-news/128
+Logger path: /home/tangyibo/data/sem_aux/LogFiles/Sketchy/hieremb-path+word2vec-google-news/128
+Result path: /home/tangyibo/data/sem_aux/Results/Sketchy/hieremb-path+word2vec-google-news/128
+Loading data...smoothdata_len:8730
+oridata_len:8600
+load_pretrained: grid-size from 7 to 9
+***Train***
+smoothdata_len:8640
+
+Epoch 0 训练中, Iteration: /1433, Total_Loss: 13.97224 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.78320  mAP@all_bin: 0.75704  ap@200: 0.78637  ap@200_bin: 0.76298
+最佳模型已保存
+smoothdata_len:8736
+
+Epoch 1 训练中, Iteration: /1433, Total_Loss: 1.85384 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.85172  mAP@all_bin: 0.80758  ap@200: 0.85293  ap@200_bin: 0.81194
+最佳模型已保存
+smoothdata_len:8736
+
+Epoch 2 训练中, Iteration: /1433, Total_Loss: 0.91004 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.87925  mAP@all_bin: 0.84149  ap@200: 0.88069  ap@200_bin: 0.84529
+最佳模型已保存
+smoothdata_len:8646
+
+Epoch 3 训练中, Iteration: /1433, Total_Loss: 0.58520 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.88799  mAP@all_bin: 0.86258  ap@200: 0.89078  ap@200_bin: 0.86865
+最佳模型已保存
+smoothdata_len:8730
+
+Epoch 4 训练中, Iteration: /1433, Total_Loss: 0.41675 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.89049  mAP@all_bin: 0.87359  ap@200: 0.89190  ap@200_bin: 0.87707
+最佳模型已保存
+smoothdata_len:8730
+
+Epoch 5 训练中, Iteration: /1433, Total_Loss: 0.24542 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.89899  mAP@all_bin: 0.88167  ap@200: 0.90025  ap@200_bin: 0.88561
+最佳模型已保存
+smoothdata_len:8640
+
+Epoch 6 训练中, Iteration: /1433, Total_Loss: 0.19133 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.89876  mAP@all_bin: 0.87676  ap@200: 0.90022  ap@200_bin: 0.88016
+smoothdata_len:8730
+
+Epoch 7 训练中, Iteration: /1433, Total_Loss: 0.12654 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.90974  mAP@all_bin: 0.89199  ap@200: 0.91141  ap@200_bin: 0.89510
+最佳模型已保存
+smoothdata_len:8640
+
+Epoch 8 训练中, Iteration: /1433, Total_Loss: 0.10225 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.90559  mAP@all_bin: 0.89598  ap@200: 0.90773  ap@200_bin: 0.90075
+smoothdata_len:8730
+
+Epoch 9 训练中, Iteration: /1433, Total_Loss: 0.08683 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.90922  mAP@all_bin: 0.89685  ap@200: 0.91152  ap@200_bin: 0.90113
+smoothdata_len:8646
+
+Epoch 10 训练中, Iteration: /1433, Total_Loss: 0.07642 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.90888  mAP@all_bin: 0.89725  ap@200: 0.91137  ap@200_bin: 0.90116
+smoothdata_len:8640
+
+Epoch 11 训练中, Iteration: /1433, Total_Loss: 0.06443 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.90791  mAP@all_bin: 0.89671  ap@200: 0.91099  ap@200_bin: 0.90300
+smoothdata_len:8730
+
+Epoch 12 训练中, Iteration: /1433, Total_Loss: 0.07490 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.90727  mAP@all_bin: 0.89569  ap@200: 0.90985  ap@200_bin: 0.90119
+smoothdata_len:8730
+
+Epoch 13 训练中, Iteration: /1433, Total_Loss: 0.19918 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.89568  mAP@all_bin: 0.88441  ap@200: 0.89667  ap@200_bin: 0.88773
+smoothdata_len:8640
+
+Epoch 14 训练中, Iteration: /1433, Total_Loss: 0.15449 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.88728  mAP@all_bin: 0.87677  ap@200: 0.88903  ap@200_bin: 0.88131
+smoothdata_len:8736
+
+Epoch 15 训练中, Iteration: /1433, Total_Loss: 0.12202 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.91120  mAP@all_bin: 0.89950  ap@200: 0.91299  ap@200_bin: 0.90364
+最佳模型已保存
+smoothdata_len:8640
+
+Epoch 16 训练中, Iteration: /1433, Total_Loss: 0.06728 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.90843  mAP@all_bin: 0.89982  ap@200: 0.91125  ap@200_bin: 0.90446
+smoothdata_len:8646
+
+Epoch 17 训练中, Iteration: /1433, Total_Loss: 0.05321 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.91071  mAP@all_bin: 0.90137  ap@200: 0.91388  ap@200_bin: 0.90669
+smoothdata_len:8730
+
+Epoch 18 训练中, Iteration: /1433, Total_Loss: 0.05042 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.91414  mAP@all_bin: 0.90352  ap@200: 0.92934  ap@200_bin: 0.90820
+最佳模型已保存
+smoothdata_len:8730
+
+Epoch 19 训练中, Iteration: /1433, Total_Loss: 0.04564 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.91110  mAP@all_bin: 0.90347  ap@200: 0.92461  ap@200_bin: 0.90922
+smoothdata_len:8646
+
+Epoch 20 训练中, Iteration: /1433, Total_Loss: 0.04053 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.91047  mAP@all_bin: 0.90135  ap@200: 0.92415  ap@200_bin: 0.90830
+smoothdata_len:8646
+
+Epoch 21 训练中, Iteration: /1433, Total_Loss: 0.03639 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.90822  mAP@all_bin: 0.90064  ap@200: 0.91176  ap@200_bin: 0.90635
+smoothdata_len:8646
+
+Epoch 22 训练中, Iteration: /1433, Total_Loss: 0.03588 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.90792  mAP@all_bin: 0.90028  ap@200: 0.91184  ap@200_bin: 0.90672
+smoothdata_len:8640
+
+Epoch 23 训练中, Iteration: /1433, Total_Loss: 0.03398 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.90723  mAP@all_bin: 0.90120  ap@200: 0.91151  ap@200_bin: 0.90700
+smoothdata_len:8730
+
+Epoch 24 训练中, Iteration: /1433, Total_Loss: 0.03174 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.90682  mAP@all_bin: 0.90116  ap@200: 0.91130  ap@200_bin: 0.90738
+smoothdata_len:8646
+
+Epoch 25 训练中, Iteration: /1433, Total_Loss: 0.03267 ***Validation***
+Computing evaluation metrics...Done
+mAP@all: 0.90691  mAP@all_bin: 0.90132  ap@200: 0.91086  ap@200_bin: 0.90724
+smoothdata_len:8646
+
+Epoch 26 训练中, Iteration: /1433, Total_Loss: 0.02936 ***Validation***
+Computing evaluation metrics.../home/tangyibo/anaconda3/envs/pytorch/lib/python3.6/site-packages/joblib/externals/loky/backend/resource_tracker.py:320: UserWarning: resource_tracker: There appear to be 14 leaked semlock objects to clean up at shutdown
+  (len(rtype_registry), rtype))
+/home/tangyibo/anaconda3/envs/pytorch/lib/python3.6/site-packages/joblib/externals/loky/backend/resource_tracker.py:320: UserWarning: resource_tracker: There appear to be 108 leaked folder objects to clean up at shutdown
+  (len(rtype_registry), rtype))
